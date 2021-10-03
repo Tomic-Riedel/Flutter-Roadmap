@@ -14,7 +14,7 @@ Here are the best I could find:
 
 In a nutshell, Flutter is this:
 
-What is flutter? Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. Flutter primarily uses Dart (a language also developed by Google).
+Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. Flutter primarily uses Dart (a language also developed by Google).
 
 Source: [https://www.codegrepper.com/search.php?q=what is flutter](https://www.codegrepper.com/search.php?q=what%20is%20flutter)
 
