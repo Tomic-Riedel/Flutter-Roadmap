@@ -72,7 +72,8 @@ Since not everything is really direct for Flutter, here are all the timestamps y
 
 **FVM:** 9:59-10:53
 
-In this video is not properly explained how to set up FVM, that's why he made a seperate video about FVM, where he explains what FVM is, how to set it up and use it in his projects.
+In this video is not properly explained how to set up FVM, that's why he made a seperate video about FVM, where he explains what FVM is, how to set it up and use it in his projects. 
+**Robert Brunhage - Flutter Productivity Beast - FVM:** https://www.youtube.com/watch?v=l5HsXg5KlYE
 
 **Linting:** 10:53-12:42 (end)
 
