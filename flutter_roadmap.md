@@ -1,6 +1,6 @@
 **This is only a file for the time the project is still in development, after that the content of this file will be moved to the README!**
 
-### What is Flutter?
+## What is Flutter?
 
 In the beginning, of course, you need to know what Flutter is. There are many short but very good videos on Youtube.
 
@@ -18,7 +18,7 @@ Flutter is Google's portable UI toolkit for crafting beautiful, natively compile
 
 Source: [https://www.codegrepper.com/search.php?q=what is flutter](https://www.codegrepper.com/search.php?q=what%20is%20flutter)
 
-### What is Dart?
+## What is Dart?
 
 Okay, now we have clarified what Flutter is. Next, we'll take a look at what Dart actually is, because this is the programming language you'll be programming in.
 
@@ -32,7 +32,7 @@ Maybe this explanation is not enough for you and you want to understand a bit de
 
 Okay, now that we have learned what Flutter & Dart are, let's start installing Flutter & Dart.
 
-### Installing Flutter & Dart
+## Installing Flutter & Dart
 
 Installing Flutter & Dart is relatively easy once you understand how to do it.
 
@@ -48,7 +48,7 @@ Since Flutter's documentation is so great, I'm linking all the articles you need
 
 For all links you should go at least from step 1-3. After that you will have Flutter completely set up. I highly recommend using VSCode, as all the extensions I mention in the rest of this repository are for VSCode.
 
-### The Ultimate Flutter Setup
+## The Ultimate Flutter Setup
 
 Wait a minute... we're not done installing Flutter yet?
 
