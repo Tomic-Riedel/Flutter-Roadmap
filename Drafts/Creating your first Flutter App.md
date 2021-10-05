@@ -6,6 +6,7 @@ This is a project created by a Flutter expert at Google and presented at the Goo
 In this video everything will be explained to you and you will already get to know the first new widgets.
 
 **Flutter - Building your first Flutter app | Workshop:** https://www.youtube.com/watch?v=Z6KZ3cTGBWw
+
 Let's go, we have created our first Flutter app, we have to celebrate that 🥳 !
 
 Now let's have a quick look at a Crash Course by Robert Brunhage, in which he creates a net worth app. 
