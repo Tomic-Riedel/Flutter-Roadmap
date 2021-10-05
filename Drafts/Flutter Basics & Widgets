@@ -4,7 +4,8 @@ Flutter is based on widgets, as you should have learned by now.
 So now let's take a look at what Flutter widgets and also look at the most important of them. 
 As always, the documentation can answer that for us (don't worry, we'll be using other sources soon).
 So, let's read through the Introduction to Widgets:
-**Introduction to widgets:** [https://flutter.dev/docs/development/ui/widgets-intro](https://flutter.dev/docs/development/ui/widgets-intro)
+
+**Introduction to widgets:** https://flutter.dev/docs/development/ui/widgets-intro
 
 Whooow, a lot was explained there.
 Of course, not every widget was explained. 
