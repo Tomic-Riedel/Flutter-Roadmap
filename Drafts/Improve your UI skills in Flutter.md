@@ -7,8 +7,11 @@ You can, if you want, just watch them, since there is no talking there unfortuna
 You will be able to see for yourself what will change after a hot reload and you can learn a lot from that as well. 
 
 So here is your list:
+
 **The Flutter Way - Flutter Custom Animation - Grocery App - Speed Code:** https://www.youtube.com/watch?v=vCQQJ42zC58&t=49s
+
 **The Flutter Way - Analog Clock Light & Dark Theme - Flutter UI - Speed Code:** https://www.youtube.com/watch?v=u6Cfzng3Gek
+
 **The Flutter Way - Flutter Fully Responsive Design for Web, Tab and Mobile:** https://www.youtube.com/watch?v=0mp-Ok00WZE
 
 Wow, you have now learned how to use Text, RichText, Containers, Shadow and much more. 
