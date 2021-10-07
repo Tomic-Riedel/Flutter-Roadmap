@@ -1,13 +1,12 @@
-# Flutter Sending HTTP Requests
-
+## Flutter Sending HTTP Requests
 Now coming to most important thing that you should take note of, is that how you going to communicate with third party servers/services. What do I mean by that is how you going to send data over the internet if your server is in different state or country. **Any idea?**
 
 Now thats where **HTTP**(HyperText Transfer Protocol) comes into play. 
 There are different types of operations you can perform like:
-- **GET** : To get or to retrieve data.
-- **POST** : To add new data.
-- **PUT** : For checking if resource is exists then update , else create new resource.
-- **PATCH** : To update existing resource.
+- **GET**: To get or to retrieve data.
+- **POST**: To add new data.
+- **PUT**: For checking if resource is exists then update , else create new resource.
+- **PATCH**: To update existing resource.
 - **DELETE**: To delete existing resource.
 We usually call these operations as **CRUD** (create, read, update and delete). After some basic theory lets move on to practical knowledge.
 
