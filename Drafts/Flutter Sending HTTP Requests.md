@@ -12,7 +12,7 @@ There are different types of operations you can perform like:
 We usually call these operations as **CRUD** (create, read, update and delete). After some basic theory lets move on to practical knowledge.
 
 ### Sending HTTP request from Flutter
-For sending HTTP requests flutter community have created a wonderful package which makes developers work easy. 
+For sending HTTP requests dart team have created a wonderful package which makes developers work easy. 
 > [http package](https://pub.dev/packages/http "http") 
 
 Using this package you can perform all the **CRUD** operations.
