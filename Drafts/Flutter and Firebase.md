@@ -5,6 +5,7 @@ As you can see, Firebase offers a lot of functionalities and therefore it is ver
 Since there are so many functionalities, we will really only cover the basics now, but you can implement just about any functionality of Firebase into your app using the [FlutterFire Docs](https://firebase.flutter.dev/docs/analytics/overview).
 
 We're going to take a look at how you can authenticate a user and store data in Firebase using a codelab from Firebase:
+
 **Firebase - Codelab: Get to know Firebase for Flutter:** https://www.youtube.com/watch?v=wUSkeTaBonA
 
 You can also find many great articles on this page from Flutter: https://flutter.dev/docs/development/data-and-backend/firebase
