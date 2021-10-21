@@ -121,3 +121,43 @@ Now we come to the 4 important articles:
 
 **Effective Dart: Design -** [https://dart.dev/guides/language/effective-dart/design](https://dart.dev/guides/language/effective-dart/design)
 
+## Flutter Widgets
+Now we finally start working with Flutter. 
+Flutter is based on widgets, as you should have learned by now.
+So now let's take a look at what Flutter widgets and also look at the most important of them. 
+As always, the documentation can answer that for us (don't worry, we'll be using other sources soon).
+So, let's read through the Introduction to Widgets:
+
+**Introduction to widgets:** https://flutter.dev/docs/development/ui/widgets-intro
+
+Whooow, a lot was explained there.
+Of course, not every widget was explained. 
+There are hundreds, if not thousands of widgets in Flutter, but it is not necessary to know them all. 
+As time goes by, you will learn more and more widgets, either through tutorials or just research on the internet. 
+In this course you will also get to know a lot more widgets.
+
+## Create your first Flutter Apps
+Yay, it's finally time to start programming! No more tedious theory, let's get on with the practice.
+
+Your first Flutter App will be an infinite list of randomly generated Startup Names. 
+This is a project created by a Flutter expert at Google and presented at the Google IO Event 2021. 
+In this video everything will be explained to you and you will already get to know the first new widgets.
+
+**Flutter - Building your first Flutter app | Workshop:** https://www.youtube.com/watch?v=Z6KZ3cTGBWw
+
+Let's go, we have created our first Flutter app, we have to celebrate that 🥳 !
+
+Now let's have a quick look at a Crash Course by Robert Brunhage, in which he creates a net worth app. 
+There was even a contest at the end, which I (Tomic Riedel), the author of this section actually won. 
+Even if you can't win anything more, this app is another very good start to get started in Flutter.
+
+**Robert Brunhage - Flutter Crash Course 2021 - Build a Net Worth Application:** https://www.youtube.com/watch?v=ktDo9wH4W_4
+
+My respect, you have now already built 2 Flutter apps, you have taken the first important steps to become a pro!
+
+As they say, all good things come in threes, so here comes the third app and the last, for this section. 
+Watching this video, you'll probably think to yourself, "I've learned all this already". And yes, that's true. 
+In this video we will again briefly summarize everything we have learned so far, but we will learn a few more things there, which are important.
+
+**Flutter - How do I make my first Flutter app:** https://www.youtube.com/watch?v=xWV71C2kp38
+
