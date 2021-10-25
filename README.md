@@ -404,8 +404,40 @@ An app that is offered in multiple languages and is understandable for the whole
 
 Great, now we have completed another topic!
 
-# Running Native Swift, ObjectiveC, Java, or Kotlin Code
+## Flutter Slivers
+Slivers in flutter are the most interesting and the most hardest to understand. While slivers a very hard to understand with it you can create really cool ui's with it. But if you used SingleChildScrollView,ListView then you already used sliver because they use slivers under the hood. To get some fancy scrolling effects you need to give one level deep of the ListView and SingleChildScrollView which is CustomScrollView and NestedScrollView. Here is a very detailed video from the flutter boring show
 
+**Slivers Explained - Making Dynamic Layouts (The Boring Flutter Development Show, Ep. 12)** https://www.youtube.com/watch?v=Mz3kHQxBjGg
+
+here is another video from a session on Google/IO 2021
+**Building scrolling experiences in Flutter | Workshop** https://www.youtube.com/watch?v=Mz3kHQxBjGg
+
+and a good article on the offical flutter docs
+
+https://flutter.dev/docs/development/ui/advanced/slivers
+
+Here is a good video from Code with Andrea 
+
+**Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader** https://www.youtube.com/watch?v=E3-WdYBrEDc
+
+Robert Brunhage has one too
+
+**Flutter - Collapsing Toolbar | Sliver App Bar** https://www.youtube.com/watch?v=I26rzdjqVXA
+
+these 2 videos are old, but they explain it really well.
+
+Here are 2 example gists that I did with slivers 
+https://gist.github.com/IsmailAlamKhan/d1693a753a791801682a53d4b02b2092
+https://gist.github.com/IsmailAlamKhan/ac1ce99647ccd6b9b5c931e5c4c92f59
+
+Here is a great answer about how to keep footer always at the bottom of the screen from Rémi Rousselet(the author of provider and riverpod)
+https://stackoverflow.com/a/49621060/13842958
+
+After you get got at slivers you might find that there are some things missing in the slivers flutter gives you out of the box for that this package got you covered
+https://pub.dev/packages/sliver_tools
+
+
+# Running Native Swift, ObjectiveC, Java, or Kotlin Code
 When building apps with flutter sometimes we might get stuck on implementing some features which flutter can't do because its a platform specific feature for that flutter provides a channel called Platform Channel with which we can call platform specific apis. This is a part where some people get scared even I got scared because I am not a native android or ios developer. But the docs of android and flutter are so good I figured it out in a day. 
 
 **One thing to note is that using Platform Channels to communicate to the platform takes some time it should be avoided as long as you have an option to do that with pure dart code.**
@@ -434,9 +466,6 @@ If you want to watch a video on this, I found one from MSJD Coding:
 **MSJD Coding - Build and Release Flutter App to App Store 2021:** https://www.youtube.com/watch?v=akFF1uJWZck&t=3s
 
 Very nice. Next, let's look at how to deploy our Flutter app to Windows, macOS and Linux.
-
-
-
 
 
 
