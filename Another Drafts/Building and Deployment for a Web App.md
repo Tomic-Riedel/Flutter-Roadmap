@@ -1,5 +1,5 @@
 # Debugging, Building and Deployment for a Flutter Web App
-Flutter's code for Web and Mobile ¡it's the same! Do not forget that. When you code a mobile application with Flutter, you simultaneously create the code for a web application,, but, you have to **compile it to Javascript code**, first.
+Flutter's code for Web and Mobile it's the same! Do not forget that. When you code a mobile application with Flutter, you simultaneously create the code for a web application,, but, you have to **compile it to Javascript code**, first.
 
 ## Debugging
 
@@ -17,7 +17,7 @@ If you run `flutter devices` into your terminal, you would be seeing some **web 
 
     flutter run -d chrome
 
-¡Now, you're running your app in **debbug mode** in a web nagivator! Flutter Web Support brings the **hot reload** tool, so, code in real time your web application.
+Now, you're running your app in **debbug mode** in a web nagivator! Flutter Web Support brings the **hot reload** tool, so, code in real time your web application.
 
 ## Bulding
 Have you finished code your app, and do you want to release it to the public? You have to build it first. And take care of the options you have.
@@ -94,7 +94,7 @@ Use these link to put into your **index.html >> head >> base >> href** tag, with
 
 **NOTE: You can edit the html tags of the index.html file like title,  and description content, for more details.**
 
-¡Now you are ready to deploy your Flutter Web App!
+Now you are ready to deploy your Flutter Web App!
 Push your files into your repository, then go to **Settings** in your GitHub repo, and find the headland **GitHub Pages**; on it, activate the GitHub Page option reading the **docs/** on the **master branch**.
 <hr>
 
