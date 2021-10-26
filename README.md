@@ -554,11 +554,10 @@ Use these link to put into your **index.html >> head >> base >> href** tag, with
 **NOTE: You can edit the html tags of the index.html file like title,  and description content, for more details.**
 
 Now you are ready to deploy your Flutter Web App!
-Push your files into your repository, then go to **Settings** in your GitHub repo, and find the headland **GitHub Pages**; on it, activate the GitHub Page option reading the **docs/** on the **master branch**.
+Push your files into your repository, then go to **Settings** in your GitHub repo, and find the headland **GitHub Pages**; on it, activate the GitHub Page option reading the **docs/** on the **master branch**. **NOTE: If you want to use your own Domain Name on GitHub Pages deployment, select "root/" instead of "docs/", then add your custom domain name on the specific bar, and finally active the option "Enforce https". You have to configurate your domain provider dashboard to point your Github repo.
+
 <hr>
 
 ***YOU DID IT!***
 
 Your Flutter Web App is now on the internet. You know what's the link, so, share with the world your new Web Application.
-
-
