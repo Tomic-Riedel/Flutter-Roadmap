@@ -1,16 +1,16 @@
-# Debugging, Building and Deployment for a Flutter Web App
+## Debugging, Building and Deployment for a Flutter Web App
 Flutter's code for Web and Mobile it's the same! Do not forget that. When you code a mobile application with Flutter, you simultaneously create the code for a web application,, but, you have to **compile it to Javascript code**, first.
 
-## Debugging
+### Debugging
 
-### Enabling Flutter Web Support
+#### Enabling Flutter Web Support
 First, you have to enable Flutter Web Feature into your enviroment. Be sure you have [**Flutter 2.0**](https://flutter.dev/docs/development/tools/sdk/release-notes/release-notes-2.0.0), so, first upgrade you're Flutter version with `flutter upgrade` into your terminal.
 
 Newest versions of Flutter enable automatically the web support, but, be sure with `flutter config --enable-web` into your terminal.
 
 Finally, to create the folders of web support, position into your flutter project, and run `flutter create .` into the terminal. With this command, you make sure that the **yourProject/web/** folder is now active.
 
-### Running your Web App
+#### Running your Web App
 As you know, Flutter only be able to make [**Progressive Web Applications**](https://web.dev/progressive-web-apps/), i.e **Single Page Applications**; keep this in mind when deciding if Flutter Web is ideal for your own project.
 
 If you run `flutter devices` into your terminal, you would be seeing some **web navigator** as connected devices; like **Chrome**, or **Edge**. In this case, do `flutter run -d <navigator_name>` e.g, if you have **Chrome** connected, do:
@@ -19,10 +19,10 @@ If you run `flutter devices` into your terminal, you would be seeing some **web 
 
 Now, you're running your app in **debbug mode** in a web nagivator! Flutter Web Support brings the **hot reload** tool, so, code in real time your web application.
 
-## Bulding
+### Bulding
 Have you finished code your app, and do you want to release it to the public? You have to build it first. And take care of the options you have.
 
-### Web Renders
+#### Web Renders
 Now, with **Flutter 2.5.2**, you can choose between two different renderers. This renders give you the possibility to manage your app performance into the web navigators:
 
 > **HTML renderer**
@@ -36,7 +36,7 @@ Now, with **Flutter 2.5.2**, you can choose between two different renderers. Thi
 If you do not specify the web render in a debugging or building, you are **optimizing for download size** on mobile browsers and optimizing for **performance on desktop browsers**, with the auto-default render.
 
 
-### Bulding with a Web Render
+#### Bulding with a Web Render
 Have you already chosen it? Now, if you're sure to realease your app, do:
 
     flutter build web --web-renderer <renderer_name> --release
@@ -55,7 +55,7 @@ You can try the renders in debbug and profile mode, with:
 
 When you build your app, a new directory has created: **yourProject/build/web/** 👈🏻 This is the folder that contains your web app; the folder you will deploy in internet.
 
-## Deploying
+### Deploying
 
 With a deploying, you should give final details into your **build/web/** folder:
 
