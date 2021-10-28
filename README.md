@@ -564,4 +564,62 @@ Push your files into your repository, then go to **Settings** in your GitHub rep
 
 Your Flutter Web App is now on the internet. You know what's the link, so, share with the world your new Web Application.
 
+## Important links for further learning
+Now we have really reached the end of the course. You haven't learned everything about Flutter by a long shot. You've learned the most important topics, how to program your own app, and much more. To learn even more about Flutter, here are people, websites and more to learn more about Flutter:
+
+### YouTube Channels
+
+**Robert Brunhage -** https://www.youtube.com/c/RobertBrunhage
+
+**Tadas Petra -** https://www.youtube.com/c/TadasPetra
+
+**Flutter Mapp -** https://www.youtube.com/c/FlutterMapp
+
+**Reso Coder -** https://www.youtube.com/c/ResoCoder
+
+**Flutter (Official channel) -** https://www.youtube.com/c/flutterdev
+
+**The Flutter Way -** https://www.youtube.com/c/TheFlutterWay
+
+**Johannes Milke -** https://www.youtube.com/c/JohannesMilke
+
+**Flutter Community -** https://www.youtube.com/c/FlutterCommunityVideos
+
+**Code with Andrea -** https://www.youtube.com/c/CodeWithAndrea
+
+### Medium Channel
+
+**Flutter -** https://medium.com/flutter
+
+**Tadas Petra -** https://tadaspetra.medium.com
+
+**Robert Brunhage -** https://robertbrunhage.medium.com
+
+**Tomic Riedel (self promotion) -** https://tomicriedel.medium.com
+
+**Tim Sneath -** https://timsneath.medium.com/
+
+### **Twitter Accounts**
+
+**Flutter -** https://twitter.com/flutterdev
+
+**Code with Andrea (Andrea Bizzdisotto) -** https://twitter.com/biz84
+
+**Tadas Petra -** https://twitter.com/tadaspetra
+
+**Robert Brunhage -** https://twitter.com/robertbrunhage
+
+**Tomic Riedel (self promotion) -** https://twitter.com/tomicriedel
+
+### Discord
+
+**Flutter Mapp -** https://discord.gg/tPnqsTm5WU
+
+**Robert & Tadas -** https://discord.gg/NcRT4bPc75
+
+/**r/Flutter -** https://discord.gg/ckUeC6fsrg
+
+You think you belong on the list?
+Then write @tomicriedel on Twitter or create a pr with your name on the list.
+
 
