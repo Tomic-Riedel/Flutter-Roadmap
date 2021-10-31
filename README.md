@@ -89,6 +89,7 @@ Okay, now we already have the first killer things set up that clearly make us mo
 Let's start with the extensions:
 
 I downloaded a few more extensions than Robert Brunhage has, which I will introduce here:
+
 **Flutter Color:** Flutter Color is one of the best flutter extensions available. It automatically detects if you have entered a color somewhere. Then. it shows you a little box to the left of it with the color you wrote in the code. If you click on this box, you get a color picker, with which you can select a color, which is then automatically written into the code.
 
 **Awesome Flutter Snippets:** Flutter snippets are very helpful, but configuring them all yourself can be a pain. That's why this extension offers many more snippets that will make your work much more productive.
