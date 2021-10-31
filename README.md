@@ -577,9 +577,9 @@ With a deploying, you should give final details into your **build/web/** folder:
 5. **VERY IMPORTANT:** Go to your **index.html** file, and find the **head >> base >> href** tag. On it, add the link of the **DNS server** on which the app will be hosted, and add a **/** int the start and end of the link.
 For example:
 
-	`<base href="/https://arhcoder.com/">`
+	`<base href="/https://flutter-roadmap.com/">`
 
-	If you don't know this link, follow this...
+	(Nope, this link does not work :C)
 
 ### Deploying Free on GitHub Pages
 For deploying a Flutter Web App, you have to create a **new repository** to host the build app **(not the dart code project),** and update on it your **/buld/web/** directory.
