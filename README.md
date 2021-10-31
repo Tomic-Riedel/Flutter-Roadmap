@@ -483,6 +483,19 @@ Sometimes you might need to show a native view in your flutter app as a widget f
 
 You can also use dart:ffi to call native C api's which is much faster than Platform Channels [Binding to native code using dart:ffi](https://flutter.dev/docs/development/platform-integration/c-interop)
 
+## Testing
+Testing is a very important skill you need in Flutter to publish your app. Nobody likes buggy apps with lots of bugs, and that's why you use testing (as the name suggests) to test your app. There are many great tutorials on this, which are listed below:
+
+**Reso Coder - Flutter Integration Test Tutorial + Firebase Test Lab & Codemagic:** https://www.youtube.com/watch?v=izajHHFSa8o
+
+**Robert Brunhage - Flutter Testing For Beginners - The Ultimate Guide:** https://www.youtube.com/watch?v=RDY6UYh-nyg
+
+**Flutter Explained - Automate your Testing on Devices with Flutter Integration Testing:** https://www.youtube.com/watch?v=WPEsnJgW99M
+
+**Flutter - Testing Flutter Apps - Making Sure Your Code Works (The Boring Flutter Development Show, Ep. 21):** https://www.youtube.com/watch?v=bj-oMYyLZEY&t=2258s
+
+Wow, now you've learned a lot about testing, let's continue!
+
 ## Deploying your app to the App Store & Google Play Store
 Wow, you're almost at the end of the course now. Of course, now you want to publish your app to the App Store and Google Play Store. There is a detailed explanation for each platform in the Flutter Docs, so let's start with Android now. 
 https://flutter.dev/docs/deployment/android
