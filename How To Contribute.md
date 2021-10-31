@@ -8,7 +8,7 @@ If you want to contribute, the first thing you should do is think of a topic or 
 
 ### Create a new topic
 
-When you create a new topic, please classify it so that it fits the difficulty level of Flutter reached in this section. For example, you should not put anything about StateManagement right after installing Flutter, otherwise your contribute will be rejected.
+When you create a new topic, please create a new markdown file in the directory "Drafts" and name the file after the topic. As you write, keep the following criteria in mind:
 
 - When you link sources, i.e. YouTube videos, articles, websites or other, you go by the following scheme
     - [{Author} - {Title} :] {Source}
@@ -22,10 +22,13 @@ When you create a new topic, please classify it so that it fits the difficulty l
 
 When editing an existing topic, you should follow the same formatting as when creating a new topic:
 
-- Proper citation
-- Follow the writing style
-- Research your topic well
-- Proper citation is important
+- When you link sources, i.e. YouTube videos, articles, websites or other, you go by the following scheme
+    - [{Author} - {Title} :] {Source}
+        - Everything in [] will be written bold.
+- Follow the writing style used in the other topics so that the whole repository looks consistent.
+- Research your topic well and make sure you haven't forgotten anything.
+- When you quote something, always cite the source. A citation should look like this:
+    - "{Citation}" ({Source}) - {Optional Author}
 
 Also, do not remove sources that are still current and pertinent to the topic. If you are editing the topic because a source is no longer current, you can remove it, but it would be good to include a new source for the current "version".
 
