@@ -680,4 +680,15 @@ Now we have really reached the end of the course. You haven't learned everything
 You think you belong on the list?
 Then write @tomicriedel on Twitter or create a pr with your name on the list.
 
+## The End
+You are now a true flutter pro!
+There is a lot of work in this repository, so we would be very happy if you give it a star ⭐️.
 
+If you learn new topics in your Flutter career and think this should be added to this repository, you should follow the rules in [How to Contribute.md](https://github.com/Tomic-Riedel/Flutter-Roadmap/blob/main/How%20To%20Contribute.md).
+
+A huge thank you goes out to the people who helped even before this project was released:
+@arhcoder
+@IsmailAlanKhan
+@ChiragKr04
+
+Another thank you goes out to @tadaspetra who as a Google Developer Expert in Dart & Flutter checked this repository for correctness in the first version.
