@@ -298,7 +298,7 @@ You can also find many great articles on this page from Flutter: https://flutter
 
 Great, we now know how to manage users, store data in Firebase and we also know where to find help if we don't know how to implement something in our app.
 
-##State Management
+## State Management
 What is StateManagement? Which StateManagement solution is the best? Why do I need external StateManagement solutions? StateManagement is very much discussed in the Flutter community and is one of the most important topics in Flutter. We can't answer any of the questions exactly, but there are some very good videos and articles that explain StateManagement very well. But, before we do that, we need to know what State means in the first place. And this is where the official YouTube channel of Flutter helps us:
 
 **Flutter - What is State?:** https://www.youtube.com/watch?v=QlwiL_yLh6E 
@@ -313,6 +313,48 @@ Another very good resource to learn StateManagement is the Grand Tour from Fires
 As you have learned from the previous resources, there are many StateManagement solutions. But which are the most famous ones and what are their advantages and disadvantages? This is explained very well by Tadas Petra in one of his videos:
 
 **Tadas Petra - Top 10 State Management for Flutter:** https://www.youtube.com/watch?v=o4bgDqO4pGk
+
+## Using local database
+
+A local database is a database that is stored on the cell phone. You're wondering why you need it, right? Well, for example you need a local database to check if the user opens the app for the first time or which theme the user has selected. But you can also use local databases for many other things, like offline access to the data.
+
+There are many different database packages on pub.dev, which are explained now.
+
+### Shared preferences
+
+shared_preferences is not a real database, so you can't think of it as SQL, but it is very useful and used in many projects. You can use this package to store small data like strings, bools or an int under a specific variable. You do this for example if you want to set a bool whether the user has been in the app before or not. This information in turn is useful to show the user an onboarding screen or something else.
+
+A great tutorial on shared preferences has been created by Johannes Milke:
+
+**Johannes Milke - Flutter Tutorial - Shared Preferences - Store & Load Data For Data Persistence:** https://www.youtube.com/watch?v=szOllHT1S7Y
+
+### Sqflite
+
+sqflite is a database system for Android, iOS and macOS that is built on the principle of SQLite. So simply put, this is the right package if you want to store data in SQL tables. A great tutorial for sqflite is provided by Johannes Milke:
+
+**Johannes Milke - Flutter Tutorial - SQL Database Storage Using Sqlite & Sqflite CRUD | Android & iOS:** https://www.youtube.com/watch?v=UpKrhZ0Hppk
+
+Another quick explanation is also available on the official Flutter Channel:
+
+**Flutter - sqflite (Flutter Package of the Week):** https://www.youtube.com/watch?v=HefHf5B1YM0
+
+### Moor
+
+The package moor is also a package based on SQLite, but it is written in native Dart, which means that you can use it on any platform, unlike sqflite. It has many other advantages over sqflite, but it has one disadvantage: it is not as well known as sqflite. It has 472 likes on https://pub.dev (as of October 31, 2021 11:00), which is not exactly little, but in contrast to sqflite, it is relatively little. Fortunately, however, one of the best Flutter YouTubers noticed this great package and did a very detailed series on it in 2019. It may be that some things don't work exactly the same with the latest version, since the series was produced in 2019 as mentioned before. Still, it's a great start and definitely worth checking out:
+
+**Reso Coder - Moor - Fluent SQLite for Flutter:** https://www.youtube.com/playlist?list=PLB6lc7nQ1n4glsY1J0R6jWirqtURKClz7
+
+### Hive
+
+Now we come to another database type. Hive is a package that offers you NoSQL capabilities. This package is also written in native Dart code and even offers encription, which I think can be very important. Also here ResoCoder has created a great tutorial, which we will have a look at now.
+
+**Reso Coder - Hive (Flutter Tutorial) - Lightweight & Fast NoSQL Database in Pure Dart:** https://www.youtube.com/watch?v=R1GSrrItqUs
+
+But since this video is also from 2019, let's take a look at another video by Johannes Milke:
+
+**Johannes Milke - Flutter Tutorial - Hive NoSQL Database In 16 Minutes & Hive CRUD | Android, iOS & Web:** https://www.youtube.com/watch?v=w8cZKm9s228
+
+Wow, now you are a real local database specialist! Let's move on to the next topic right away.
 
 ## Error Handling
 It can happen very often that an error happens in your app for which you can't be held responsible. Maybe the API is not working properly (we have already learned how to work with APIs and Rest APIs), the user is not connected to the Internet and much more. This is annoying, of course, but this is exactly the kind of situation you need error handling for. You check, so to speak, if an error occurs, whereupon you then execute a certain action. If there is no error, then you can just continue and if there is, then you might show the user that something went wrong. Now let's look at how we implement this.
