@@ -1,6 +1,9 @@
 # Flutter-Roadmap
-In this repository you will learn Flutter from scratch, so that after that you are almost a Flutter pro and the whole thing is completely free.
+In this repository you will learn Flutter from scratch and become a real pro. You will become familiar with the programming language Dart and the framework Flutter through many practical examples and this from 100% free resources.
 
+For you it's just one click, but it means a lot to the team of this repository if you star this repository ⭐️
+
+You think a topic needs improvement or a complete topic is missing? Then check out [How to Contribute.md](https://github.com/Tomic-Riedel/Flutter-Roadmap/blob/main/How%20To%20Contribute.md) and help us make the dream of a completely free Flutter course a reality!
 ## What is Flutter?
 
 In the beginning, of course, you need to know what Flutter is. There are many short but very good videos on Youtube.
