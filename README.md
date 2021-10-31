@@ -687,8 +687,9 @@ There is a lot of work in this repository, so we would be very happy if you give
 If you learn new topics in your Flutter career and think this should be added to this repository, you should follow the rules in [How to Contribute.md](https://github.com/Tomic-Riedel/Flutter-Roadmap/blob/main/How%20To%20Contribute.md).
 
 A huge thank you goes out to the people who helped even before this project was released:
-@arhcoder
-@IsmailAlanKhan
-@ChiragKr04
+[@arhcoder](https://github.com/arhcoder)
+[@IsmailAlanKhan](https://github.com/IsmailAlamKhan)
+[@ChiragKr04](https://github.com/ChiragKr04)
+(Tomic Riedel worked on it too, of course, but he is the owner of this repository, so this should go without saying)
 
-Another thank you goes out to @tadaspetra who as a Google Developer Expert in Dart & Flutter checked this repository for correctness in the first version.
+Another thank you goes out to [@tadaspetra](https://github.com/tadaspetra) who as a Google Developer Expert in Dart & Flutter checked this repository for correctness in the first version.
