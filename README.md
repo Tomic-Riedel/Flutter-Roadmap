@@ -690,7 +690,7 @@ If you learn new topics in your Flutter career and think this should be added to
 
 A huge thank you goes out to the people who helped even before this project was released:
 [@arhcoder](https://github.com/arhcoder)
-[@IsmailAlanKhan](https://github.com/IsmailAlamKhan)
+[@IsmailAlamKhan](https://github.com/IsmailAlamKhan)
 [@ChiragKr04](https://github.com/ChiragKr04)
 (Tomic Riedel worked on it too, of course, but he is the owner of this repository, so this should go without saying)
 
