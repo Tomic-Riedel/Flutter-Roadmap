@@ -321,6 +321,29 @@ Great, now we have also learned the next technology in combination with Flutter!
 
 You are making very good progress!
 
+## Flutter & Amplify
+
+Amplify is also a service like Firebase and Supabase, only this one is from Amazon. Since this service is also one of the biggest and you might need it later, we'll now look at how to build your app with Amplify.
+
+We'll be helped by Amplify's documentation:
+
+[https://docs.amplify.aws/lib/q/platform/flutter/](https://docs.amplify.aws/lib/q/platform/flutter/)
+
+If 
+
+(We recommend doing all parts of Flutter in the documentation).
+
+And now we are done with Amplify.
+
+## Which BaaS should I use?
+Now that we've looked at all the different Backend as a Service providers, the question naturally becomes, which one should you use for your app? And as you can probably already guess: It all depends.
+
+If you want to build an app with simple authentication, data storage, etc., I can highly recommend Supabase. It's very easy to use in my opinion and you can build it into your app very quickly.
+
+If you need things that are a bit more fancier, then you need to be able to assess for yourself what you should choose. I can tell you that Firebase is definitely easier to learn, but it's not meant for building apps that could get very big (even though it's always marketed that way). 
+
+I hope I was able to give you a little push to make your decision 🙂
+
 
 ## State Management
 What is StateManagement? Which StateManagement solution is the best? Why do I need external StateManagement solutions? StateManagement is very much discussed in the Flutter community and is one of the most important topics in Flutter. We can't answer any of the questions exactly, but there are some very good videos and articles that explain StateManagement very well. But, before we do that, we need to know what State means in the first place. And this is where the official YouTube channel of Flutter helps us:
