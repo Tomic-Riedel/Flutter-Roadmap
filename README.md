@@ -15,7 +15,7 @@ Here are the best I could find:
 
 **Google Developers - Introducing Flutter:** [https://www.youtube.com/watch?v=fq4N0hgOWzU](https://www.youtube.com/watch?v=fq4N0hgOWzU)
 
-**Fireship - Flutter in 100 seconds (my favorite for short explanations):** [https://www.youtube.com/watch?v=lHhRhPV--G0&t=32s](https://www.youtube.com/watch?v=lHhRhPV--G0&t=32s)
+**Fireship - Flutter in 100 seconds (my favorite for short explanations):** [https://www.youtube.com/watch?v=lHhRhPV--G0](https://www.youtube.com/watch?v=lHhRhPV--G0)
 
 In a nutshell, Flutter is this:
 
