@@ -412,6 +412,17 @@ When Reso Coder makes a video about a topic, it is very well done. So now let's 
 
 **Reso Coder - Functional Error Handling in Flutter & Dart (#2 - Either, Task, FP):** https://www.youtube.com/watch?v=ZTU-WWEOoII
 
+## Sending push notifications
+Many apps nowadays use push notifications to "lure" their users back into the app. They are also used to remind users about something and much more. For this reason, you should know how to send push notifications in Flutter. 
+
+For this, Johannes Milke has created two great tutorials:
+
+**Johannes Milke - Flutter Tutorial - Local Push Notifications 1/2 [2021] Android & iOS:** [https://www.youtube.com/watch?v=bRy5dmts3X8](https://www.youtube.com/watch?v=bRy5dmts3X8)
+
+**Johannes Milke - Flutter Tutorial - Customize Local Push Notifications 2/2 [2021] Background, Custom Sound, No Sound:** [https://www.youtube.com/watch?v=X3tAGnGc_t0](https://www.youtube.com/watch?v=X3tAGnGc_t0)
+
+Now we have learned something again! You are becoming a real flutter pro!
+
 # Flutter Animations
 We have come to the most fun and my favorite part **Animations**. Animations makes your ui look alive and provides a great ux. Now this is a topic most people get scared of but fear not animations in Flutter are the most easiest with a few lines of code you can create so beautiful animations. 
 
