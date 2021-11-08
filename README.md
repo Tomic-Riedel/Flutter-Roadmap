@@ -329,8 +329,6 @@ We'll be helped by Amplify's documentation:
 
 [https://docs.amplify.aws/lib/q/platform/flutter/](https://docs.amplify.aws/lib/q/platform/flutter/)
 
-If 
-
 (We recommend doing all parts of Flutter in the documentation).
 
 And now we are done with Amplify.
