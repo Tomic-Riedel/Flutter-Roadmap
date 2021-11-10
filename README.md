@@ -399,6 +399,9 @@ But since this video is also from 2019, let's take a look at another video by Jo
 
 **Johannes Milke - Flutter Tutorial - Hive NoSQL Database In 16 Minutes & Hive CRUD | Android, iOS & Web:** https://www.youtube.com/watch?v=w8cZKm9s228
 
+The latest video I could find is from Flutter Mapp. Here Hive is explained in under 8 minutes:
+**Flutter Mapp -  Flutter Hive Explained under 8 Minutes:** https://www.youtube.com/watch?v=L-oUzgxOfdY
+
 Wow, now you are a real local database specialist! Let's move on to the next topic right away.
 
 ## Error Handling
