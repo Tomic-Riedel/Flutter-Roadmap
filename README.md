@@ -280,12 +280,17 @@ You are making good progress!
 ## App Architecture
 As you may have noticed, it is sometimes very hard to keep track with all the widgets, as it is common knowledge that flutter code can get messy very quickly. That's why it's important to find a proper app architecture.
 
-One of the best is the one from Reso Coder, which is explained by him in great detail and the architecture has many advantages.
+We offer you here two architectures that you can learn:
 
-**Caution!:** You will have to invest a lot of time in this module, but we promise it will be worth it when you create big apps later on. Please watch the full playlist!
+The first one is from Reso Coder. Everything is described in great detail, but the downside is that this architecture is a bit outdated. I think it's still good to learn this architecture if you want to create your own later, because after watching this tutorial series you will know exactly what to look for.
+
+
+**Caution!:** You will have to invest a lot of time in this module (7+ hours)
 
 **Reso Coder - Flutter TDD Clean Architecture:** https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech
 
+The second architecture I found on Medium by Chinmay Mourya. This one is from September 2020. It is not the newest architecture, but a very good and tidy one. Moreover, you don't have to invest a lot of time to understand this architecture completely.
+**Chinmay Mourya - Flutter scalable folder & files structure:** https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd
 
 Okay okay, that was a lot at one time, but we promise you it was really worth it! Now we will continue with some difficult topics, but in this topic we will build complete apps very often!
 
