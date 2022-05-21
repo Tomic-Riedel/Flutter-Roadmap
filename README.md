@@ -364,6 +364,19 @@ As you have learned from the previous resources, there are many StateManagement 
 
 **Tadas Petra - Top 10 State Management for Flutter:** https://www.youtube.com/watch?v=o4bgDqO4pGk
 
+### Riverpod
+Riverpod is an increasingly popular state management solution, which is simply a better/rewritten version of Provider. It is the solution I can personally recommend the most. 
+
+A very good start to learn Riverpod is the Riverpod documentation: [https://riverpod.dev/docs/getting_started](https://riverpod.dev/docs/getting_started)
+
+But if you prefer to learn Riverpod from YouTube, I recommend this video, which came out just a few weeks ago and is very up to date (at the time this was written - 05/21/2022):
+
+**Reso Coder - Riverpod 2.0 - Complete Guide (Flutter Tutorial):** [https://www.youtube.com/watch?v=Zp7VKVhirmw](https://www.youtube.com/watch?v=Zp7VKVhirmw)
+
+Here is the written out version of the video if you prefer to read or while watching it also read through it:
+
+[https://resocoder.com/2022/04/22/riverpod-2-0-complete-guide-flutter-tutorial/](https://resocoder.com/2022/04/22/riverpod-2-0-complete-guide-flutter-tutorial/)
+
 ## Using local database
 
 A local database is a database that is stored on the cell phone. You're wondering why you need it, right? Well, for example you need a local database to check if the user opens the app for the first time or which theme the user has selected. But you can also use local databases for many other things, like offline access to the data.
