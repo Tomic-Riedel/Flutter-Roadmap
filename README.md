@@ -1,10 +1,70 @@
 ![Flutter-Roadmap](https://user-images.githubusercontent.com/64801984/139584011-f3153258-362a-47e3-b750-506bdf983509.png)
 
+## Table of contents
+
+- [Flutter Roadmap](#flutter-roadmap)
+  - [What is Flutter?](#what-is-flutter)
+  - [What is Dart?](#what-is-dart)
+  - [Installing Flutter & Dart](#installing-flutter--dart)
+  - [The Ultimate Flutter Setup](#the-ultimate-flutter-setup)
+  - [Dart Syntax & Basics](#dart-syntax--basics)
+  - [Effective Dart](#effective-dart)
+  - [Flutter Widgets](#flutter-widgets)
+  - [Create your first Flutter Apps](#create-your-first-flutter-apps)
+  - [Improve your UI skills in Flutter](#improve-your-ui-skills-in-flutter)
+  - [Packages and Plugins](#packages-and-plugins)
+  - [Theming](#theming)
+  - [Working with user inputs and forms](#working-with-user-inputs-and-forms)
+  - [Routing and Navigation](#routing-and-navigation)
+  - [Responsive Design](#responsive-design)
+  - [App Architecture](#app-architecture)
+  - [Flutter & Firebase](#flutter--firebase)
+  - [Flutter & Supabase](#flutter--supabase)
+  - [Flutter & Amplify](#flutter--amplify)
+  - [Which BaaS should I use?](#which-baas-should-i-use)
+  - [State Management](#state-management)
+    - [Riverpod](#riverpod)
+  - [Using local database](#using-local-database)
+    - [Shared preferences](#shared-preferences)
+    - [Sqflite](#sqflite)
+    - [Moor](#moor)
+    - [Hive](#hive)
+  - [Error Handling](#error-handling)
+  - [Sending push notifications](#sending-push-notifications)
+  - [Flutter Animations](#flutter-animations)
+  - [Flutter Sending HTTP Requests](#flutter-sending-http-requests)
+    - [Sending HTTP request from Flutter](#sending-http-request-from-flutter)
+    - [All CRUD operations Step by Step](#all-crud-operations-step-by-step)
+    - [Some advance concepts](#some-advance-concepts)
+  - [Multi Language Support](#multi-language-support)
+  - [Flutter Slivers](#flutter-slivers)
+  - [Using native device functionalities](#using-native-device-functionalities)
+    - [Microphone usage](#microphone-usage)
+    - [Camera & Gallery](#camera--gallery)
+    - [Location](#location)
+  - [Running Native Swift, ObjectiveC, Java, or Kotlin Code](#running-native-swift-objectivec-java-or-kotlin-code)
+  - [Testing](#testing)
+  - [Deploying your app to the App Store & Google Play Store](#deploying-your-app-to-the-app-store--google-play-store)
+  - [Debugging, Building and Deployment for a Flutter Web App](#debugging-building-and-deployment-for-a-flutter-web-app)
+    - [Debugging](#debugging)
+    - [Bulding](#bulding)
+    - [Deploying](#deploying)
+    - [Deploying Free on GitHub Pages](#deploying-free-on-github-pages)
+  - [Important links for further learning](#important-links-for-further-learning)
+    - [YouTube Channels](#youtube-channels)
+    - [Medium Channel](#medium-channel)
+    - [**Twitter Accounts**](#twitter-accounts)
+    - [Discord](#discord)
+  - [The End](#the-end)
+
+# Flutter Roadmap
+
 In this repository you will learn Flutter from scratch and become a real pro. You will become familiar with the programming language Dart and the framework Flutter through many practical examples and this from 100% free resources.
 
 For you it's just one click, but it means a lot to the team of this repository if you star this repository ⭐️
 
 You think a topic needs improvement or a complete topic is missing? Then check out [How to Contribute.md](https://github.com/Tomic-Riedel/Flutter-Roadmap/blob/main/How%20To%20Contribute.md) and help us make the dream of a completely free Flutter course a reality!
+
 ## What is Flutter?
 
 In the beginning, of course, you need to know what Flutter is. There are many short but very good videos on Youtube.
@@ -442,7 +502,7 @@ For this, Johannes Milke has created two great tutorials:
 
 Now we have learned something again! You are becoming a real flutter pro!
 
-# Flutter Animations
+## Flutter Animations
 We have come to the most fun and my favorite part **Animations**. Animations makes your ui look alive and provides a great ux. Now this is a topic most people get scared of but fear not animations in Flutter are the most easiest with a few lines of code you can create so beautiful animations. 
 
 [This article](https://flutter.dev/docs/development/ui/animations) from [Flutter's official docs](https://flutter.dev) will help you get started. And if you need animations which occurs one after another in other words staggered animations here is another article about it https://flutter.dev/docs/development/ui/animations/staggered-animations. Thats it for resources from the official docs.
@@ -489,7 +549,7 @@ For sending HTTP requests dart team have created a wonderful package which makes
 
 Using this package you can perform all the **CRUD** operations.
 
-#### All CRUD operations Step by Step 
+### All CRUD operations Step by Step 
 1. [This article](https://flutter.dev/docs/cookbook/networking/fetch-data "This article") will walk you through how to **retrieve** or to **GET data from servers**.
 2. [This article](https://flutter.dev/docs/cookbook/networking/send-data "This article") will walk you through how to **send** or to **POST data to servers**.
 3. [This article](https://flutter.dev/docs/cookbook/networking/update-data "This article") will walk you through how to **update** or to **PUT and PATCH data to servers**.
