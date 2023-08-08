@@ -160,17 +160,21 @@ I will add more extensions as soon as I find new ones.
 
 Before we really get started, we need to understand the programming language we are programming in. That's why we're going to take a look at the syntax of Dart.
 
-As already mentioned 2x, Dart has a great documentation, so there is a Language Tour in the Docs. This is very long, I know that, but if you have read and understood this article, then you can definitely say that you understand the Dart syntax and can already code in Dart.
+As already mentioned 2x, Dart has an excellent documentation, so there is a Language Tour in the Docs. This is very long, I know that, but if you have read and understood this article, then you can definitely say that you understand the Dart syntax and can already code in Dart.
 
 **Dart - Dart Language Tour:** [https://dart.dev/guides/language/language-tour](https://dart.dev/guides/language/language-tour)
 
-We know it sounds like a boring task to you, but without taking away your motivation: If you want to master Flutter & Dart properly, then you need to read through this article and many more. So, consider this the first step to great success!
+We know it sounds like a boring task to you, but without taking away your motivation: If you want to master Flutter & Dart properly, you need to read this article and many more. So, consider this the first step to great success!
+
+But there is also an easier way to learn Dart. You can take the free course by Rivaan Ranawat, which teaches you everything about Dart. You will be able to skip all the following Dart sections if you finish this 8-hour course:
+**Rivaan Ranawat - Dart Programming Tutorial For Absolute Beginners | Master Dart In 8 Hours | Flutter Tutorial Pt 1:** [https://www.youtube.com/watch?v=Fqcsow_7go4&t=559s](https://www.youtube.com/watch?v=Fqcsow_7go4&t=559s)
 
 ## Effective Dart
 
-Okay, now it's going to get really hard, but we promise you, once you get through this step, there's a little bit easier stuff to come.
+Okay, now it will get really hard, but we promise you, once you get through this step, there's a little bit easier stuff to come (As already mentioned above, you can also take the 8-hour course by Rivaan Ranawat.
+**Rivaan Ranawat - Dart Programming Tutorial For Absolute Beginners | Master Dart In 8 Hours | Flutter Tutorial Pt 1:** [https://www.youtube.com/watch?v=Fqcsow_7go4&t=559s](https://www.youtube.com/watch?v=Fqcsow_7go4&t=559s)
 
-We want to understand darts really well, because after this course you should really be able to create your dream apps. That's why I have to torture you with 4 more articles now, unfortunately. 
+We want to understand darts really well because after this course you should really be able to create your dream apps. That's why I have to torture you with 4 more articles now, unfortunately. 
 
 To read the 4 more articles properly, here's how you should read these 4 guides (a very short article:
 
@@ -189,24 +193,32 @@ Now we come to the 4 important articles:
 ## Flutter Widgets
 Now we finally start working with Flutter. 
 Flutter is based on widgets, as you should have learned by now.
-So now let's take a look at what Flutter widgets and also look at the most important of them. 
+So now let's take a look at what Flutter widgets are and also look at the most important of them. 
 As always, the documentation can answer that for us (don't worry, we'll be using other sources soon).
 So, let's read through the Introduction to Widgets:
 
 **Introduction to widgets:** https://flutter.dev/docs/development/ui/widgets-intro
 
-Whooow, a lot was explained there.
+Wow, a lot was explained there.
 Of course, not every widget was explained. 
-There are hundreds, if not thousands of widgets in Flutter, but it is not necessary to know them all. 
+There are hundreds if not thousands of widgets in Flutter, but it is not necessary to know them all. 
 As time goes by, you will learn more and more widgets, either through tutorials or just research on the internet. 
-In this course you will also get to know a lot more widgets.
+In this course, you will also get to know a lot more widgets.
 
 ## Create your first Flutter Apps
 Yay, it's finally time to start programming! No more tedious theory, let's get on with the practice.
 
+There are two ways you can continue from here:
+You can 
+1. Just continue reading this and clicking on the links, doing the projects etc.
+2. My **recommended** way: Do the 13-hour course by Rivaan Ranawat about Flutter. You will be able to skip a huge amount of topics in this list and learn all the basics:
+**Rivaan Ranawat - Flutter Tutorial For Beginners in 13 Hours:** https://www.youtube.com/watch?v=BiOSCpV-lts&t=308s
+
+If you have chosen to just continue reading, then continue here:
+
 Your first Flutter App will be an infinite list of randomly generated Startup Names. 
 This is a project created by a Flutter expert at Google and presented at the Google IO Event 2021. 
-In this video everything will be explained to you and you will already get to know the first new widgets.
+In this video, everything will be explained to you and you will already get to know the first new widgets.
 
 **Flutter - Building your first Flutter app | Workshop:** https://www.youtube.com/watch?v=Z6KZ3cTGBWw
 
@@ -218,11 +230,11 @@ Even if you can't win anything more, this app is another very good start to get 
 
 **Robert Brunhage - Flutter Crash Course 2021 - Build a Net Worth Application:** https://www.youtube.com/watch?v=ktDo9wH4W_4
 
-My respect, you have now already built 2 Flutter apps, you have taken the first important steps to become a pro!
+My respect, you have now already built 2 Flutter apps, and you have taken the first important steps to become a pro!
 
 As they say, all good things come in threes, so here comes the third app and the last, for this section. 
 Watching this video, you'll probably think to yourself, "I've learned all this already". And yes, that's true. 
-In this video we will again briefly summarize everything we have learned so far, but we will learn a few more things there, which are important.
+In this video, we will again briefly summarize everything we have learned so far, but we will learn a few more things there, which are important.
 
 **Flutter - How do I make my first Flutter app:** https://www.youtube.com/watch?v=xWV71C2kp38
 
@@ -240,19 +252,19 @@ So here is your list:
 
 **The Flutter Way - Analog Clock Light & Dark Theme - Flutter UI - Speed Code:** https://www.youtube.com/watch?v=u6Cfzng3Gek
 
-**The Flutter Way - Flutter Fully Responsive Design for Web, Tab and Mobile:** https://www.youtube.com/watch?v=0mp-Ok00WZE
+**The Flutter Way - Flutter Fully Responsive Design for Web, Tab, and Mobile:** https://www.youtube.com/watch?v=0mp-Ok00WZE
 
 Wow, you have now learned how to use Text, RichText, Containers, Shadow and much more. 
 On top of that, you've learned how to create custom animations, bring Dark & Light Theme into your app and even create Responsive designs. 
-That was a lot and you just took a huge step. We'll take a closer look at Animations, Dark & Light Theme and Responsive Design later, as there are several solutions there and some tutorials from The Flutter Way already have newer solutions for them.
+That was a lot and you just took a huge step. We'll take a closer look at Animations, Dark & Light Theme, and Responsive Design later, as there are several solutions there and some tutorials from The Flutter Way already have newer solutions for them.
 The main purpose of this section was simply to teach you UI design in Flutter.
 
 By now you have learned how to add packages to the pubspec.yaml file, but what are packages and what is the difference between a package and a plugin? That's what we're going to look at now.
 
 ## Packages and Plugins
 
-Packages and plugins can save you many hours of time. If you need a special widget, animation or backend manager, maybe someone has already developed something for it. 
-And the probability is very high for that, because thousands of people publish packages on pub.dev. 
+Packages and plugins can save you many hours of time. If you need a special widget, animation, or backend manager, maybe someone has already developed something for it. 
+And the probability is very high for that because thousands of people publish packages on pub.dev. 
 So in short, it's one of the most important things in Flutter & Dart. 
 Now what exactly packages are and how you can add them is explained to you, as always, by Flutter.
 https://flutter.dev/docs/development/packages-and-plugins/using-packages (Don't worry, this article is not as long as others 😉 )
@@ -278,7 +290,7 @@ https://flutter.dev/docs/cookbook/design/fonts
 There is also the possibility to import fonts from a package (the one we looked at before). We will read how to do that and then we are almost done with the theming.
 https://flutter.dev/docs/cookbook/design/package-fonts
 
-We can import files like videos, images etc. from the assets in a similar way as with fonts. For this we do something similar to importing like fonts:
+We can import files like videos, images, etc. from the assets in a similar way as with fonts. For this, we do something similar to importing fonts:
 https://flutter.dev/docs/development/ui/assets-and-images
 
 Great, now we are done with theming, let’s continue!
@@ -287,7 +299,7 @@ Oh, and a little tip on the side: There is a very popular package called google_
 https://pub.dev/packages/google_fonts/
 
 ## Working with user inputs and forms
-User inputs are needed in almost every app. Be it for the login, the searchbar or other things. And you've already worked with this a lot, but let's take another look at what's behind it, as this is a very important topic in Flutter.
+User inputs are needed in almost every app. Be it for the login, the search bar, or other things. And you've already worked with this a lot, but let's take another look at what's behind it, as this is a very important topic in Flutter.
 
 And this time, we're not going to draw on the Flutter documentation. We will look at a YouTube channel called "Johannes Milke" as our main source this time. He has made two very good videos on TextFields and Form & TextFormFields. 
 
@@ -309,7 +321,7 @@ Again, Johannes Milke has created a very good video which we will now look at:
 Great, then we have taken another big step and now we are slowly getting into the more challenging area.
 
 ## Routing and Navigation
-Routing is one of the most important things you need as a Flutter developer, because you will very rarely create an app that has a single screen. And also this has been shown to you in other videos, but we really want to understand what it all means and how it works.
+Routing is one of the most important things you need as a Flutter developer because you will very rarely create an app that has a single screen. And also this has been shown to you in other videos, but we really want to understand what it all means and how it works.
 
 One of the best YouTube channels for Flutter, Reso Coder, did a great tutorial on routing. Let's take a look at this one now.
 
@@ -338,11 +350,11 @@ https://robertbrunhage.com/videos/flutter-responsiveness
 You are making good progress!
 
 ## App Architecture
-As you may have noticed, it is sometimes very hard to keep track with all the widgets, as it is common knowledge that flutter code can get messy very quickly. That's why it's important to find a proper app architecture.
+As you may have noticed, it is sometimes very hard to keep track of all the widgets, as it is common knowledge that flutter code can get messy very quickly. That's why it's important to find a proper app architecture.
 
 We offer you here two architectures that you can learn:
 
-The first one is from Reso Coder. Everything is described in great detail, but the downside is that this architecture is a bit outdated. I think it's still good to learn this architecture if you want to create your own later, because after watching this tutorial series you will know exactly what to look for.
+The first one is from Reso Coder. Everything is described in great detail, but the downside is that this architecture is a bit outdated. I think it's still good to learn this architecture if you want to create your own later because after watching this tutorial series you will know exactly what to look for.
 
 
 **Caution!:** You will have to invest a lot of time in this module (7+ hours)
@@ -352,24 +364,24 @@ The first one is from Reso Coder. Everything is described in great detail, but t
 The second architecture I found on Medium by Chinmay Mourya. This one is from September 2020. It is not the newest architecture, but a very good and tidy one. Moreover, you don't have to invest a lot of time to understand this architecture completely.
 **Chinmay Mourya - Flutter scalable folder & files structure:** https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd
 
-Okay okay, that was a lot at one time, but we promise you it was really worth it! Now we will continue with some difficult topics, but in this topic we will build complete apps very often!
+Okay okay, that was a lot at one time, but we promise you it was really worth it! Now we will continue with some difficult topics, but in this topic, we will build complete apps very often!
 
 ## Flutter & Firebase
-Firebase is a Backend as a Service (BaaS) product developed by Google to make app development a lot easier. It offers tons of features, such as Authentication, WebHosting, Database Storage, Analytics (connected with Google Analytics), Engage (Predictions, A/B Testing...) and Relase & Monitor (Crashlytics, Performance...).
+Firebase is a Backend as a Service (BaaS) product developed by Google to make app development a lot easier. It offers tons of features, such as Authentication, web hosting, Database Storage, Analytics (connected with Google Analytics), Engage (Predictions, A/B Testing...), and release & Monitor (Crashlytics, Performance...).
 As you can see, Firebase offers a lot of functionalities and therefore it is very important to know it well.
 
 Since there are so many functionalities, we will really only cover the basics now, but you can implement just about any functionality of Firebase into your app using the [FlutterFire Docs](https://firebase.flutter.dev/docs/analytics/overview).
 
-We're going to take a look at how you can authenticate a user and store data in Firebase using a codelab from Firebase:
+We're going to take a look at how you can authenticate a user and store data in Firebase using a code lab from Firebase:
 
 **Firebase - Codelab: Get to know Firebase for Flutter:** https://www.youtube.com/watch?v=wUSkeTaBonA
 
 You can also find many great articles on this page from Flutter: https://flutter.dev/docs/development/data-and-backend/firebase
 
-Great, we now know how to manage users, store data in Firebase and we also know where to find help if we don't know how to implement something in our app.
+Great, we now know how to manage users, and store data in Firebase, and we also know where to find help if we don't know how to implement something in our app.
 
 ## Flutter & Supabase
-Supabase calls itself an alternative to Firebase. And in my opinion it is. A huge advantage is that you can host it on your own server, but also that Supabase is open source. Also, this company is currently growing very fast, so it's a huge advantage if you start learning it now, so you'll have an advantage over newcomers later when Supabase is very big.
+Supabase calls itself an alternative to Firebase. And in my opinion, it is. A huge advantage is that you can host it on your own server, but also that Supabase is open source. Also, this company is currently growing very fast, so it's a huge advantage if you start learning it now, so you'll have an advantage over newcomers later when Supabase is very big.
 
 Okay, now enough of the long introduction, let's get started:
 
@@ -403,20 +415,20 @@ Now that we've looked at all the different Backend as a Service providers, the q
 
 If you want to build an app with simple authentication, data storage, etc., I can highly recommend Supabase. It's very easy to use in my opinion and you can build it into your app very quickly.
 
-If you need things that are a bit more fancier, then you need to be able to assess for yourself what you should choose. I can tell you that Firebase is definitely easier to learn, but it's not meant for building apps that could get very big (even though it's always marketed that way). 
+If you need things that are a bit fancier, then you need to be able to assess for yourself what you should choose. I can tell you that Firebase is definitely easier to learn, but it's not meant for building apps that could get very big (even though it's always marketed that way). 
 
 I hope I was able to give you a little push to make your decision 🙂
 
 
 ## State Management
-What is StateManagement? Which StateManagement solution is the best? Why do I need external StateManagement solutions? StateManagement is very much discussed in the Flutter community and is one of the most important topics in Flutter. We can't answer any of the questions exactly, but there are some very good videos and articles that explain StateManagement very well. But, before we do that, we need to know what State means in the first place. And this is where the official YouTube channel of Flutter helps us:
+What is state management? Which StateManagement solution is the best? Why do I need external StateManagement solutions? StateManagement is very much discussed in the Flutter community and is one of the most important topics in Flutter. We can't answer any of the questions exactly, but there are some very good videos and articles that explain StateManagement very well. But, before we do that, we need to know what State means in the first place. And this is where the official YouTube channel of Flutter helps us:
 
 **Flutter - What is State?:** https://www.youtube.com/watch?v=QlwiL_yLh6E 
 
 After answering this question, let's read the 5 articles about StateManagement from the Flutter Docs:
 https://flutter.dev/docs/development/data-and-backend/state-mgmt
 
-Another very good resource to learn StateManagement is the Grand Tour from Fireship. It is a bit outdated and some things are not included there, however it is super explained and definitely worth watching:
+Another very good resource to learn StateManagement is the Grand Tour from Fireship. It is a bit outdated and some things are not included there, however, it is super explained and definitely worth watching:
 
 **Fireship - Flutter State Management - The Grand Tour:** https://www.youtube.com/watch?v=3tm-R7ymwhc&t=2s 
 
@@ -427,9 +439,9 @@ As you have learned from the previous resources, there are many StateManagement 
 ### Riverpod
 Riverpod is an increasingly popular state management solution, which is simply a better/rewritten version of Provider. It is the solution I can personally recommend the most. 
 
-A very good start to learn Riverpod is the Riverpod documentation: [https://riverpod.dev/docs/getting_started](https://riverpod.dev/docs/getting_started)
+A very good start to learning Riverpod is the Riverpod documentation: [https://riverpod.dev/docs/getting_started](https://riverpod.dev/docs/getting_started)
 
-But if you prefer to learn Riverpod from YouTube, I recommend this video, which came out just a few weeks ago and is very up to date (at the time this was written - 05/21/2022):
+But if you prefer to learn Riverpod from YouTube, I recommend this video, which came out just a few weeks ago and is very up-to-date (at the time this was written - 05/21/2022):
 
 **Reso Coder - Riverpod 2.0 - Complete Guide (Flutter Tutorial):** [https://www.youtube.com/watch?v=Zp7VKVhirmw](https://www.youtube.com/watch?v=Zp7VKVhirmw)
 
@@ -439,13 +451,13 @@ Here is the written out version of the video if you prefer to read or while watc
 
 ## Using local database
 
-A local database is a database that is stored on the cell phone. You're wondering why you need it, right? Well, for example you need a local database to check if the user opens the app for the first time or which theme the user has selected. But you can also use local databases for many other things, like offline access to the data.
+A local database is a database that is stored on a cell phone. You're wondering why you need it, right? Well, for example you need a local database to check if the user opens the app for the first time or which theme the user has selected. But you can also use local databases for many other things, like offline access to the data.
 
 There are many different database packages on pub.dev, which are explained now.
 
 ### Shared preferences
 
-shared_preferences is not a real database, so you can't think of it as SQL, but it is very useful and used in many projects. You can use this package to store small data like strings, bools or an int under a specific variable. You do this for example if you want to set a bool whether the user has been in the app before or not. This information in turn is useful to show the user an onboarding screen or something else.
+shared_preferences is not a real database, so you can't think of it as SQL, but it is very useful and used in many projects. You can use this package to store small data like strings, bools, or an int under a specific variable. You do this for example if you want to set a bool whether the user has been in the app before or not. This information in turn is useful to show the user an onboarding screen or something else.
 
 A great tutorial on shared preferences has been created by Johannes Milke:
 
@@ -453,19 +465,13 @@ A great tutorial on shared preferences has been created by Johannes Milke:
 
 ### Sqflite
 
-sqflite is a database system for Android, iOS and macOS that is built on the principle of SQLite. So simply put, this is the right package if you want to store data in SQL tables. A great tutorial for sqflite is provided by Johannes Milke:
+sqflite is a database system for Android, iOS, and macOS that is built on the principle of SQLite. So simply put, this is the right package if you want to store data in SQL tables. A great tutorial for sqflite is provided by Johannes Milke:
 
 **Johannes Milke - Flutter Tutorial - SQL Database Storage Using Sqlite & Sqflite CRUD | Android & iOS:** https://www.youtube.com/watch?v=UpKrhZ0Hppk
 
 Another quick explanation is also available on the official Flutter Channel:
 
 **Flutter - sqflite (Flutter Package of the Week):** https://www.youtube.com/watch?v=HefHf5B1YM0
-
-### Moor
-
-The package moor is also a package based on SQLite, but it is written in native Dart, which means that you can use it on any platform, unlike sqflite. It has many other advantages over sqflite, but it has one disadvantage: it is not as well known as sqflite. It has 472 likes on https://pub.dev (as of October 31, 2021 11:00), which is not exactly little, but in contrast to sqflite, it is relatively little. Fortunately, however, one of the best Flutter YouTubers noticed this great package and did a very detailed series on it in 2019. It may be that some things don't work exactly the same with the latest version, since the series was produced in 2019 as mentioned before. Still, it's a great start and definitely worth checking out:
-
-**Reso Coder - Moor - Fluent SQLite for Flutter:** https://www.youtube.com/playlist?list=PLB6lc7nQ1n4glsY1J0R6jWirqtURKClz7
 
 ### Hive
 
@@ -505,7 +511,7 @@ Now we have learned something again! You are becoming a real flutter pro!
 ## Flutter Animations
 We have come to the most fun and my favorite part **Animations**. Animations makes your ui look alive and provides a great ux. Now this is a topic most people get scared of but fear not animations in Flutter are the most easiest with a few lines of code you can create so beautiful animations. 
 
-[This article](https://flutter.dev/docs/development/ui/animations) from [Flutter's official docs](https://flutter.dev) will help you get started. And if you need animations which occurs one after another in other words staggered animations here is another article about it https://flutter.dev/docs/development/ui/animations/staggered-animations. Thats it for resources from the official docs.
+[This article](https://flutter.dev/docs/development/ui/animations) from [Flutter's official docs](https://flutter.dev) will help you get started. And if you need animations that occur one after another in other words staggered animations here is another article about it https://flutter.dev/docs/development/ui/animations/staggered-animations. That's it for resources from the official docs.
 
 This is a bit old but this playlist is from the official flutter youtube channel and its one of the best out there:
 
@@ -516,7 +522,7 @@ This is a big one but its worth looking at:
 **Flutter - Flutter Europe: Animations in Flutter done right:** https://www.youtube.com/watch?v=wnARLByOtKA&t=1480s
 
 
-If you need the animations showed here https://material.io/design/motion/understanding-motion.html#principles the material.io team made an excelent package for just that https://pub.dev/packages/animations. (One tip if you need some resources about UI and UX always look at [Material Design docs](https://material.io)).
+If you need the animations shown here https://material.io/design/motion/understanding-motion.html#principles the material.io team made an excellent package for just that https://pub.dev/packages/animations. (One tip if you need some resources about UI and UX always look at [Material Design docs](https://material.io)).
 
 Here is another great video about Staggered Animations from Reso Coder:
 
@@ -529,22 +535,22 @@ And some other great videos from the same author:
 
 All the resources I mentioned are animations done using code but if you need 3d animations that you can draw look at [Rive](http://rive.app/)
 
-Now all the resources I mentioned some are old but they are great ones and can be easily used with a bit of modication to the code.
+Now all the resources I mentioned are old but they are great ones and can be easily used with a bit of modification to the code.
 
 ## Flutter Sending HTTP Requests
-Now coming to most important thing that you should take note of, is that how you going to communicate with third party servers/services. What do I mean by that is how you going to send data over the internet if your server is in different state or country. **Any idea?**
+Now coming to the most important thing that you should take note of, is how you going to communicate with third-party servers/services. What I mean by that is how you going to send data over the internet if your server is in a different state or country. **Any idea?**
 
-Now thats where **HTTP**(HyperText Transfer Protocol) comes into play. 
+Now that's where **HTTP**(HyperText Transfer Protocol) comes into play. 
 There are different types of operations you can perform like:
-- **GET**: To get or to retrieve data.
+- **GET**: To get or retrieve data.
 - **POST**: To add new data.
-- **PUT**: For checking if resource is exists then update , else create new resource.
-- **PATCH**: To update existing resource.
-- **DELETE**: To delete existing resource.
-We usually call these operations as **CRUD** (create, read, update and delete). After some basic theory lets move on to practical knowledge.
+- **PUT**: For checking if a resource exists then update, else create a new resource.
+- **PATCH**: To update existing resources.
+- **DELETE**: To delete existing resources.
+We usually call these operations **CRUD** (create, read, update, and delete). After some basic theory let's move on to practical knowledge.
 
 ### Sending HTTP request from Flutter
-For sending HTTP requests dart team have created a wonderful package which makes developers work easy. 
+For sending HTTP requests dart team has created a wonderful package that makes developers' work easy. 
 > [http package](https://pub.dev/packages/http "http") 
 
 Using this package you can perform all the **CRUD** operations.
@@ -555,32 +561,32 @@ Using this package you can perform all the **CRUD** operations.
 3. [This article](https://flutter.dev/docs/cookbook/networking/update-data "This article") will walk you through how to **update** or to **PUT and PATCH data to servers**.
 4. [This article](https://flutter.dev/docs/cookbook/networking/delete-data "This article") will walk you through how to **remove** or to **DELETE data from servers**.
 
-### Some advance concepts
+### Some advanced concepts
 Now you have learned how to perform all the CRUD operations. Clap for yourself beacuse you are 80% done to master the HTTP concept.
 
-Now comes the tricky part. Lets say you are getting huge JSON data from your server and parsing these JSON takes time. So sometimes it might create some buggy UI or jank to avoid this we usually isolate these expensive computation from UI and do the work in background.
-So to parse JSON in background we can follow this tutorial provided by Flutter team https://flutter.dev/docs/cookbook/networking/background-parsing .
+Now comes the tricky part. Let's say you are getting huge JSON data from your server and parsing these JSON takes time. So sometimes it might create some buggy UI or jank to avoid this we usually isolate these expensive computations from UI and do the work in the background.
+So to parse JSON in the background we can follow this tutorial provided by Flutter team https://flutter.dev/docs/cookbook/networking/background-parsing.
 
 By now you have become PRO in handling any kind of HTTP request.
 
 And you can learn more about networking by following [this link](https://flutter.dev/docs/cookbook#networking "this link.").
 
-## Multi Language Support
-An app that is offered in multiple languages and is understandable for the whole world is what every app developer wants. Of course, we don't teach you how to learn different languages, but rather how to get the different languages into your app. For this we use INTL & ARB files, as this is one of the most used systems. A very good tutorial about this has been made by Johannes Milke, which explains everything very detailed:
+## Multi-Language Support
+An app that is offered in multiple languages and is understandable for the whole world is what every app developer wants. Of course, we don't teach you how to learn different languages, but rather how to get the different languages into your app. For this, we use INTL & ARB files, as this is one of the most used systems. A very good tutorial about this has been made by Johannes Milke, which explains everything in very detail:
 
 **Johannes Milke - Flutter Tutorial - Localization & Internationalization with INTL & ARB Files:** https://www.youtube.com/watch?v=Zw4KoorVxgg
 
 Great, now we have completed another topic!
 
 ## Flutter Slivers
-Slivers in flutter are the most interesting and the most hardest to understand. While slivers a very hard to understand with it you can create really cool ui's with it. But if you used SingleChildScrollView,ListView then you already used sliver because they use slivers under the hood. To get some fancy scrolling effects you need to give one level deep of the ListView and SingleChildScrollView which is CustomScrollView and NestedScrollView. Here is a very detailed video from the flutter boring show
+Slivers in Flutter are the most interesting and the hardest to understand. While slivers a very hard to understand with it you can create really cool things with it. But if you used SingleChildScrollView, or ListView then you already used Sliver because they use slivers under the hood. To get some fancy scrolling effects you need to give one level deep of the ListView and SingleChildScrollView which is CustomScrollView and NestedScrollView. Here is a very detailed video from the Flutter boring show
 
 **Slivers Explained - Making Dynamic Layouts (The Boring Flutter Development Show, Ep. 12)** https://www.youtube.com/watch?v=Mz3kHQxBjGg
 
 here is another video from a session on Google/IO 2021
 **Building scrolling experiences in Flutter | Workshop** https://www.youtube.com/watch?v=Mz3kHQxBjGg
 
-and a good article on the offical flutter docs
+and a good article on the official flutter docs
 
 https://flutter.dev/docs/development/ui/advanced/slivers
 
@@ -598,10 +604,10 @@ Here are 2 example gists that I did with slivers
 https://gist.github.com/IsmailAlamKhan/d1693a753a791801682a53d4b02b2092
 https://gist.github.com/IsmailAlamKhan/ac1ce99647ccd6b9b5c931e5c4c92f59
 
-Here is a great answer about how to keep footer always at the bottom of the screen from Rémi Rousselet(the author of provider and riverpod)
+Here is a great answer about how to keep the footer always at the bottom of the screen from Rémi Rousselet(the author of Provider and riverpod)
 https://stackoverflow.com/a/49621060/13842958
 
-After you get got at slivers you might find that there are some things missing in the slivers flutter gives you out of the box for that this package got you covered
+After you get got at Slivers you might find that there are some things missing in the Slivers flutter gives you out of the box for that this package got you covered
 https://pub.dev/packages/sliver_tools+
 
 ## Using native device functionalities
@@ -619,25 +625,25 @@ As you should have noticed during the course, Johannes Milke always creates very
 
 ### Location
 
-Unfortunately I didn't find a tutorial from Johannes Milke about Location of the user, however Flutter made a great tutorial about the package location:
+Unfortunately, I didn't find a tutorial from Johannes Milke about the Location of the user, however, Flutter made a great tutorial about the package location:
 
 **Flutter - Location (Flutter Package of the Week):** [https://www.youtube.com/watch?v=65qbtJMltVk](https://www.youtube.com/watch?v=65qbtJMltVk)
 
 
-## Running Native Swift, ObjectiveC, Java, or Kotlin Code
-When building apps with flutter sometimes we might get stuck on implementing some features which flutter can't do because its a platform specific feature for that flutter provides a channel called Platform Channel with which we can call platform specific apis. This is a part where some people get scared even I got scared because I am not a native android or ios developer. But the docs of android and flutter are so good I figured it out in a day. 
+## Running Native Swift, Objective-C, Java, or Kotlin Code
+When building apps with Flutter sometimes we might get stuck on implementing some features which Flutter can't do because it's a platform-specific feature for that flutter provides a channel called Platform Channel which we can call platform-specific APIs. This is a part where some people get scared even though I got scared because I am not a native Android or ios developer. But the docs of Android and flutter are so good I figured it out in a day. 
 
 **One thing to note is that using Platform Channels to communicate to the platform takes some time it should be avoided as long as you have an option to do that with pure dart code.**
 
-[Writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels). This will help get you started to write platform specific code, it has all the things you need to know about Platform Channels.
+[Writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels). This will help get you started to write platform-specific code, it has all the things you need to know about Platform Channels.
 
-There are 2 types of Platform Channels one is called MethodChannel and another one is called EventChannel. MethodChannel does what it says it does, lets you call methods from the platform. EventChannel on the other hand will help you listen to events from the platform an example would be listening to sensors. Now the problem is there isn't enough docs about EventChannel on the official docs of flutter but there is an excelent article 
+There are 2 types of Platform Channels one is called MethodChannel and another one is called EventChannel. MethodChannel does what it says it does, and lets you call methods from the platform. EventChannel on the other hand will help you listen to events from the platform an example would be listening to sensors. Now the problem is there aren't enough docs about EventChannel on the official docs of Flutter but there is an excellent article 
 [An In-Depth Dive Into Streaming Data Across Platform Channels on Flutter](https://www.raywenderlich.com/20518849-an-in-depth-dive-into-streaming-data-across-platform-channels-on-flutter)
 
-Sometimes you might need to show a native view in your flutter app as a widget for example webview Flutter's got you covered for that too with PlatformViews 
+Sometimes you might need to show a native view in your Flutter app as a widget for example web view Flutter's got you covered for that too with PlatformViews 
 [Hosting native Android and iOS views in your Flutter app with Platform View](https://flutter.dev/docs/development/platform-integration/platform-views).
 
-You can also use dart:ffi to call native C api's which is much faster than Platform Channels [Binding to native code using dart:ffi](https://flutter.dev/docs/development/platform-integration/c-interop)
+You can also use dart:ffi to call native C API's which is much faster than Platform Channels [Binding to native code using dart:ffi](https://flutter.dev/docs/development/platform-integration/c-interop)
 
 ## Testing
 Testing is a very important skill you need in Flutter to publish your app. Nobody likes buggy apps with lots of bugs, and that's why you use testing (as the name suggests) to test your app. There are many great tutorials on this, which are listed below:
@@ -665,20 +671,20 @@ If you want to watch a video on this, I found one from MSJD Coding:
 
 **MSJD Coding - Build and Release Flutter App to App Store 2021:** https://www.youtube.com/watch?v=akFF1uJWZck&t=3s
 
-Very nice. Next, let's look at how to deploy our Flutter app to Windows, macOS and Linux.
+Very nice. Next, let's look at how to deploy our Flutter app to Windows, macOS, and Linux.
 
 
-## Debugging, Building and Deployment for a Flutter Web App
-Flutter's code for Web and Mobile it's the same! Do not forget that. When you code a mobile application with Flutter, you simultaneously create the code for a web application,, but, you have to **compile it to Javascript code**, first.
+## Debugging, Building, and Deployment for a Flutter Web App
+Flutter's code for Web and Mobile it's the same! Do not forget that. When you code a mobile application with Flutter, you simultaneously create the code for a web application, but, you have to **compile it to Javascript code**, first.
 
 ### Debugging
 
 #### Enabling Flutter Web Support
-First, you have to enable Flutter Web Feature into your enviroment. Be sure you have [**Flutter 2.0**](https://flutter.dev/docs/development/tools/sdk/release-notes/release-notes-2.0.0), so, first upgrade you're Flutter version with `flutter upgrade` into your terminal.
+First, you have to enable Flutter Web Feature in your environment. Be sure you have [**Flutter 2.0**](https://flutter.dev/docs/development/tools/sdk/release-notes/release-notes-2.0.0), so, first upgrade you're Flutter version with `flutter upgrade` into your terminal.
 
-Newest versions of Flutter enable automatically the web support, but, be sure with `flutter config --enable-web` into your terminal.
+The newest versions of Flutter enable automatically the web support, but, be sure with `flutter config --enable-web` into your terminal.
 
-Finally, to create the folders of web support, position into your flutter project, and run `flutter create .` into the terminal. With this command, you make sure that the **yourProject/web/** folder is now active.
+Finally, to create the folders of web support, position them into your flutter project, and run `flutter create .` into the terminal. With this command, you make sure that the **yourProject/web/** folder is now active.
 
 #### Running your Web App
 As you know, Flutter only be able to make [**Progressive Web Applications**](https://web.dev/progressive-web-apps/), i.e **Single Page Applications**; keep this in mind when deciding if Flutter Web is ideal for your own project.
@@ -687,13 +693,13 @@ If you run `flutter devices` into your terminal, you would be seeing some **web 
 
     flutter run -d chrome
 
-Now, you're running your app in **debbug mode** in a web nagivator! Flutter Web Support brings the **hot reload** tool, so, code in real time your web application.
+Now, you're running your app in **debug mode** in a web navigator! Flutter Web Support brings the **hot reload** tool, so, code in real time your web application.
 
-### Bulding
-Have you finished code your app, and do you want to release it to the public? You have to build it first. And take care of the options you have.
+### Building
+Have you finished coding your app, and do you want to release it to the public? You have to build it first. And take care of the options you have.
 
 #### Web Renders
-Now, with **Flutter 2.5.2**, you can choose between two different renderers. This renders give you the possibility to manage your app performance into the web navigators:
+Now, with **Flutter 2.5.2**, you can choose between two different renderers. This renders give you the possibility to manage your app performance in the web navigators:
 
 > **HTML renderer**
 >
@@ -706,8 +712,8 @@ Now, with **Flutter 2.5.2**, you can choose between two different renderers. Thi
 If you do not specify the web render in a debugging or building, you are **optimizing for download size** on mobile browsers and optimizing for **performance on desktop browsers**, with the auto-default render.
 
 
-#### Bulding with a Web Render
-Have you already chosen it? Now, if you're sure to realease your app, do:
+#### Building with a Web Render
+Have you already chosen it? Now, if you're sure to release your app, do:
 
     flutter build web --web-renderer <renderer_name> --release
 For **HTML** renderer:
@@ -717,13 +723,13 @@ For **CanvasKit** renderer:
 
     flutter build web --web-renderer canvaskit --release
 
-You can try the renders in debbug and profile mode, with:
+You can try the renders in debug and profile mode, with:
 
     flutter run -d chrome --web-renderer <renderer-name>
     
     flutter run -d chrome --web-renderer <renderer-name> --profile
 
-When you build your app, a new directory has created: **yourProject/build/web/** 👈🏻 This is the folder that contains your web app; the folder you will deploy in internet.
+When you build your app, a new directory has created: **yourProject/build/web/** 👈🏻 This is the folder that contains your web app; the folder you will deploy on internet.
 
 ### Deploying
 
@@ -731,7 +737,7 @@ With a deploying, you should give final details into your **build/web/** folder:
 
  1. Change the default **favicon.png** file. This icon will appear in the browser tab whe someone mark as favorite your web site. Use the same file name.
 
- 2. Change the default icons of **/icons/** folder. You should use the same icon, but with **190 x 190** and **520 x 520** size respectively. When you add your own icons, be sure to use the same name of the default files.
+ 2. Change the default icons of the **/icons/** folder. You should use the same icon but with **190 x 190** and **520 x 520** sizes respectively. When you add your own icons, be sure to use the same name as the default files.
 
  3. Go to **manifest.json** and change..
 	 - **name.**
@@ -751,9 +757,9 @@ For example:
 	(Nope, this link does not work :C)
 
 ### Deploying Free on GitHub Pages
-For deploying a Flutter Web App, you have to create a **new repository** to host the build app **(not the dart code project),** and update on it your **/buld/web/** directory.
+For deploying a Flutter Web App, you have to create a **new repository** to host the build app **(not the dart code project),** and update on it your **/build/web/** directory.
 
-Default GitHub Page url is:
+The default GitHub Page URL is:
 
     https://yourGithubUser.github.io/yourRepositoryName/
 For example:
@@ -762,12 +768,12 @@ For example:
 
 Use these link to put into your **index.html >> head >> base >> href** tag, with the instructions previously given, ***BEFORE YOU UPDATE THE REPOSITORY WITH THE BUIL WEB APP.***
 
-**NOTE: You can edit the html tags of the index.html file like title,  and description content, for more details.**
+**NOTE: You can edit the HTML tags of the index.html file like title,  and description content, for more details.**
 
 Now you are ready to deploy your Flutter Web App!
 Push your files into your repository, then go to **Settings** in your GitHub repo, and find the headland **GitHub Pages**; on it, activate the GitHub Page option reading the **docs/** on the **master branch**.
 
-**NOTE: If you want to use your own Domain Name on GitHub Pages deployment, select "root/" instead of "docs/", then add your custom domain name on the specific bar, and finally active the option "Enforce https". You have to configurate your domain provider dashboard to point your Github repo.**
+**NOTE: If you want to use your own Domain Name on GitHub Pages deployment, select "root/" instead of "docs/", then add your custom domain name on the specific bar, and finally activate the option "Enforce https". You have to configure your domain provider dashboard to point your Github repo.**
 
 <hr>
 
@@ -779,6 +785,8 @@ Your Flutter Web App is now on the internet. You know what's the link, so, share
 Now we have really reached the end of the course. You haven't learned everything about Flutter by a long shot. You've learned the most important topics, how to program your own app, and much more. To learn even more about Flutter, here are people, websites and more to learn more about Flutter:
 
 ### YouTube Channels
+
+**Rivaan Ranawat -** https://www.youtube.com/@RivaanRanawat
 
 **Robert Brunhage -** https://www.youtube.com/c/RobertBrunhage
 
@@ -824,13 +832,15 @@ Now we have really reached the end of the course. You haven't learned everything
 
 ### Discord
 
+**Rivaan Ranawat -** https://discord.gg/B4eVKqtubV
+
 **Flutter Mapp -** https://discord.gg/tPnqsTm5WU
 
 **Robert & Tadas -** https://discord.gg/NcRT4bPc75
 
 /**r/Flutter -** https://discord.gg/ckUeC6fsrg
 
-You think you belong on the list?
+Do you think you belong on the list?
 Then write @tomicriedel on Twitter or create a pr with your name on the list.
 
 ## The End
